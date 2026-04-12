@@ -1,0 +1,13 @@
+p {
+    font-size: 20 px;
+}
+
+header {
+    text-align: center;
+    font-size: 100 px 
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
